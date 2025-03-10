@@ -1,16 +1,27 @@
 # s-web (study web)
 Useful websites for developer
 
-## UI/UX
+## Front-End
+
+### UI/UX
 [nngroup](https://www.nngroup.com/articles)
 
 [dribbble](https://dribbble.com/)
 
-## DEV Community
+### Emoji
+[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## Back-End
+
+### DEV Community
 [dev.to](https://dev.to/)
 
-## Linux
+## Dev-OPs
+
+### Linux
 [Hostinger Tutorials](https://www.hostinger.com/tutorials/linux-commands)
 
-## English
+## More
+
+### English
 [YouGlish](https://youglish.com/)
