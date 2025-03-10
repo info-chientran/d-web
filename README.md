@@ -30,6 +30,11 @@ Useful websites for developer
 
 [High Scalability](https://highscalability.com/)
 
+### Leetcode
+[Leetcode](https://leetcode.com)
+
+[Grind 75 questions](https://www.techinterviewhandbook.org/grind75/)
+
 
 ### English
 [YouGlish](https://youglish.com/)
