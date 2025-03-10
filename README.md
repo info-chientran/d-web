@@ -14,7 +14,7 @@ Useful websites for developer
 ## Back-End
 [bundlephobia](https://bundlephobia.com/) find the cost of adding a npm package to your bundle
 
-[securityheaders](https://securityheaders.com/) Scan your site now
+[securityheaders](https://securityheaders.com/) scan your site now
 
 ## Dev-OPs
 
@@ -23,8 +23,10 @@ Useful websites for developer
 
 ## More
 
-### DEV Community
+### Article
 [dev.to](https://dev.to/)
+
+[Hacker News](https://news.ycombinator.com/)
 
 
 ### English
