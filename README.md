@@ -16,6 +16,8 @@ Useful websites for developer
 
 [securityheaders](https://securityheaders.com/) scan your site now
 
+[VisuAlgo](https://visualgo.net/) visualising data structures and algorithms through animation
+
 ## Dev-OPs
 
 ### Linux
