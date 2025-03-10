@@ -12,9 +12,7 @@ Useful websites for developer
 [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Back-End
-
-### DEV Community
-[dev.to](https://dev.to/)
+[bundlephobia](https://bundlephobia.com/) find the cost of adding a npm package to your bundle
 
 ## Dev-OPs
 
@@ -22,6 +20,10 @@ Useful websites for developer
 [Hostinger Tutorials](https://www.hostinger.com/tutorials/linux-commands)
 
 ## More
+
+### DEV Community
+[dev.to](https://dev.to/)
+
 
 ### English
 [YouGlish](https://youglish.com/)
