@@ -40,3 +40,10 @@ Useful websites for developer
 
 ### English
 [YouGlish](https://youglish.com/)
+
+### Download
+[y2meta](https://y2meta.ne)
+
+[youtube4kdownloader](https://youtube4kdownloader.com)
+
+[soundoftext](https://soundoftext.com)
