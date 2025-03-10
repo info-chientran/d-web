@@ -28,6 +28,8 @@ Useful websites for developer
 
 [Hacker News](https://news.ycombinator.com/)
 
+[High Scalability](https://highscalability.com/)
+
 
 ### English
 [YouGlish](https://youglish.com/)
