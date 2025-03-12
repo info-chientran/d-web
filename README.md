@@ -1,4 +1,4 @@
-# s-web (study web)
+# d-web (documents web)
 Useful websites for developer
 
 ## Front-End
